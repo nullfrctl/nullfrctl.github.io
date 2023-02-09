@@ -1,0 +1,20 @@
+@import "{{ site.theme }}";
+
+/* primary colors */
+$red: #f75049;
+$cyan: #5ef6ff;
+$white: #ffffff;
+$darkest-blue: #0e0e17;
+
+/* secondary */
+$grey: #d6d0d0;
+$green: #1ded83;
+$blue: #2570d4;
+$violet-purple: #9d2bf5;
+$orange: #fb932e;
+$yellow: #f0b537;
+
+body {
+    background-color: $darkest-blue;
+    color: $red;
+}
