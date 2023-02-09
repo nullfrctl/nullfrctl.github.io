@@ -2,4 +2,4 @@ markdown: GFM # GitHub flavored markdown makes more sense to me.
 theme: minima
 
 minima:
-  skin: auto
+  skin: dark
